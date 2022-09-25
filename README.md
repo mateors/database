@@ -8,3 +8,4 @@
 ## Resource
 * https://github.com/mateors/go-datastructures
 * https://github.com/bits-and-blooms/bloom
+* [designing-a-database-from-scratch](https://www.dannyallegrezza.com/blog/2019-03-03-designing-a-database-from-scratch)
