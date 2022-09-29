@@ -4,6 +4,7 @@
 * [Build-a-nosql-database-from-the-scratch](https://betterprogramming.pub/build-a-nosql-database-from-the-scratch-in-1000-lines-of-code-8ed1c15ed924)
 * [Let's build a distributed Postgres proof of concept](https://notes.eatonphil.com/distributed-postgres.html)
 * [Document database from scratch](https://notes.eatonphil.com/documentdb.html)
+* [distributed-key-value-store](https://notes.eatonphil.com/minimal-key-value-store-with-hashicorp-raft.html)
 
 ## Bloom filter
 * [Bloomfilter-tutorial](https://llimllib.github.io/bloomfilter-tutorial)
