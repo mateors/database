@@ -1,6 +1,7 @@
 # Database from scratch
 
 * [Let's Build a Simple Database](https://cstack.github.io/db_tutorial)
+* [Build-a-nosql-database-from-the-scratch](https://betterprogramming.pub/build-a-nosql-database-from-the-scratch-in-1000-lines-of-code-8ed1c15ed924)
 
 ## Bloom filter
 * [Bloomfilter-tutorial](https://llimllib.github.io/bloomfilter-tutorial)
