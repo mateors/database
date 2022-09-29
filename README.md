@@ -1,5 +1,6 @@
 # Database from scratch
 
+* [Let's Build a Simple Database](https://cstack.github.io/db_tutorial)
 
 ## Bloom filter
 * [Bloomfilter-tutorial](https://llimllib.github.io/bloomfilter-tutorial)
